@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  function_1.c
+  function_2.c
+  function_3.c
+  function_4.c
+  function_5.c
+c:\c_code\ch2_lab1-2\lab1-2\lab1-2\function_5.c(8): warning C4101: 'temp2': 未參考的區域變數
+  Main.c
+c:\c_code\ch2_lab1-2\lab1-2\lab1-2\main.c(6): warning C4013: 'Han_Xin_1' 未定義; 假設 extern 傳回整數
+c:\c_code\ch2_lab1-2\lab1-2\lab1-2\main.c(7): warning C4013: 'Han_Xin_2' 未定義; 假設 extern 傳回整數
+c:\c_code\ch2_lab1-2\lab1-2\lab1-2\main.c(8): warning C4013: 'Han_Xin_3' 未定義; 假設 extern 傳回整數
+c:\c_code\ch2_lab1-2\lab1-2\lab1-2\main.c(9): warning C4013: 'Han_Xin_4' 未定義; 假設 extern 傳回整數
+c:\c_code\ch2_lab1-2\lab1-2\lab1-2\main.c(10): warning C4013: 'Han_Xin_5' 未定義; 假設 extern 傳回整數
+  正在產生程式碼...
+  Lab1-2.vcxproj -> C:\c_code\CH2_Lab1-2\Lab1-2\Lab1-2\..\..\temp\debug\Lab1-2.exe
